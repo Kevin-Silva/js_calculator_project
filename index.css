@@ -4,3 +4,24 @@
 .button-rows{
     display: flex;
 }
+.button{
+    text-decoration: none;
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+}
+.button-double{
+    width: 140px;
+    height: 70px;
+}
+.button-triple{
+    width: 210px;
+}
+.display{
+    color: white;
+    background-color: black;
+    height: 70px;
+    width: 280px;
+    text-align: right;
+    font-size: 50px;
+}
